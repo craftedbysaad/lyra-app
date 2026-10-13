@@ -113,6 +113,8 @@
     @keyframes bounce { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.6); } }
     .bars span { transform-origin: bottom; }
     @media (prefers-reduced-motion: reduce) { .bars span { animation: none; } }
+    .shots { display: flex; gap: 14px; overflow-x: auto; padding: 4px 2px 14px; scroll-snap-type: x mandatory; }
+    .shots img { width: 220px; flex: 0 0 auto; border-radius: 26px; border: 1px solid var(--line); scroll-snap-align: start; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
     footer { text-align: center; color: var(--faint); font-size: 13px; padding: 40px 0 50px; border-top: 1px solid var(--line); margin-top: 30px; }
     footer a, .about a { color: var(--accent); text-decoration: none; }
   </style>
@@ -137,6 +139,19 @@
       </div>
       <p class="note">Free · No ads · No account · Android APK and iPhone IPA</p>
     </header>
+
+    <section>
+      <h2>A look inside</h2>
+      <div class="shots">
+        <img src="screenshots/01-launch.jpg" alt="Lyra launch screen" loading="lazy" />
+        <img src="screenshots/02-home.jpg" alt="Lyra home screen" loading="lazy" />
+        <img src="screenshots/03-now-playing.jpg" alt="Now Playing" loading="lazy" />
+        <img src="screenshots/04-lyrics.jpg" alt="Word-by-word lyrics" loading="lazy" />
+        <img src="screenshots/05-app-icons.jpg" alt="App icons including Saad Edition" loading="lazy" />
+        <img src="screenshots/06-settings.jpg" alt="Settings" loading="lazy" />
+        <img src="screenshots/07-settings-playback.jpg" alt="Playback settings" loading="lazy" />
+      </div>
+    </section>
 
     <section>
       <h2>Everything a music app should be</h2>

@@ -22,15 +22,17 @@ Fast, refined, and completely free of ads.
 
 ## Screenshots
 
-<!-- Add phone screenshots to the screenshots/ folder and list them here, e.g.:
 <p align="center">
-  <img src="screenshots/home.png" width="230" />
-  <img src="screenshots/now-playing.png" width="230" />
-  <img src="screenshots/lyrics.png" width="230" />
+  <img src="screenshots/01-launch.jpg" width="200" alt="Launch screen" />
+  <img src="screenshots/02-home.jpg" width="200" alt="Home" />
+  <img src="screenshots/03-now-playing.jpg" width="200" alt="Now Playing" />
+  <img src="screenshots/04-lyrics.jpg" width="200" alt="Word-by-word lyrics" />
 </p>
--->
-
-_Coming soon._
+<p align="center">
+  <img src="screenshots/05-app-icons.jpg" width="200" alt="App icons, including Saad Edition" />
+  <img src="screenshots/06-settings.jpg" width="200" alt="Settings: appearance" />
+  <img src="screenshots/07-settings-playback.jpg" width="200" alt="Settings: playback" />
+</p>
 
 ## Features
 
