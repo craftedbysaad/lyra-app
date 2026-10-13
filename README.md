@@ -7,13 +7,13 @@
 **A free, ad-free music app for Android and iPhone.**
 Fast, refined, and completely free of ads.
 
-[![Latest release](https://img.shields.io/github/v/release/walldrop4k-hub/lyra-app?label=latest&color=ff7aa8)](https://github.com/walldrop4k-hub/lyra-app/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/craftedbysaad/lyra-app?label=latest&color=ff7aa8)](https://github.com/craftedbysaad/lyra-app/releases/latest)
 ![Android](https://img.shields.io/badge/Android-APK-3ddc84?logo=android&logoColor=white)
 ![iPhone](https://img.shields.io/badge/iPhone-IPA-111111?logo=apple&logoColor=white)
 ![Ads](https://img.shields.io/badge/ads-none-7b5cf0)
 
-[**Download**](https://github.com/walldrop4k-hub/lyra-app/releases/latest) ·
-[Website](https://walldrop4k-hub.github.io/lyra-app/) ·
+[**Download**](https://github.com/craftedbysaad/lyra-app/releases/latest) ·
+[Website](https://craftedbysaad.github.io/lyra-app/) ·
 [Instagram](https://instagram.com/filesofsaad)
 
 </div>
@@ -49,12 +49,12 @@ Fast, refined, and completely free of ads.
 ## Install
 
 **Android**
-1. Download `Lyra-<version>.apk` from the [latest release](https://github.com/walldrop4k-hub/lyra-app/releases/latest).
+1. Download `Lyra-<version>.apk` from the [latest release](https://github.com/craftedbysaad/lyra-app/releases/latest).
 2. Open it and allow "Install unknown apps" when asked.
 3. New versions install over the old one; your library and downloads stay.
 
 **iPhone**
-1. Download `Lyra-<version>.ipa` from the [latest release](https://github.com/walldrop4k-hub/lyra-app/releases/latest).
+1. Download `Lyra-<version>.ipa` from the [latest release](https://github.com/craftedbysaad/lyra-app/releases/latest).
 2. Install it with [Sideloadly](https://sideloadly.io) (or SideStore / AltStore) using your Apple ID.
 3. With a free Apple ID the app needs re-signing every 7 days.
 
