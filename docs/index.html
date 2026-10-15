@@ -117,6 +117,12 @@
     .shots img { width: 220px; flex: 0 0 auto; border-radius: 26px; border: 1px solid var(--line); scroll-snap-align: start; box-shadow: 0 16px 40px rgba(0,0,0,.45); }
     footer { text-align: center; color: var(--faint); font-size: 13px; padding: 40px 0 50px; border-top: 1px solid var(--line); margin-top: 30px; }
     footer a, .about a { color: var(--accent); text-decoration: none; }
+    .new { display: grid; gap: 22px; }
+    .new ul { margin: 0; padding-left: 20px; color: var(--muted, #b3afc4); line-height: 1.7; }
+    .new ul b { color: #eeedf4; }
+    .new .wide { width: 100%; max-width: 560px; border-radius: 22px; border: 1px solid var(--line); box-shadow: 0 16px 40px rgba(0,0,0,.45); }
+    .new .home-icon { width: 100%; max-width: 440px; border-radius: 18px; border: 1px solid var(--line); }
+    .badge { display: inline-block; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #ff7aa8; border: 1px solid rgba(255,122,168,.45); border-radius: 999px; padding: 4px 10px; margin-bottom: 10px; }
   </style>
 </head>
 <body>
@@ -140,6 +146,25 @@
       <p class="note">Free · No ads · No account · Android APK and iPhone IPA</p>
     </header>
 
+    <section class="new">
+      <div>
+        <span class="badge">New in 1.0.12</span>
+        <h2>Lyra Collection</h2>
+      </div>
+      <ul>
+        <li><b>9 new app icons</b> — Lips, Chrome, Note, Serpent, Flame, Ribbon, Ember, Glitter and Viper.</li>
+        <li><b>A new App icon page</b> with Classic, Lyra Collection and Saad Edition in one grid.</li>
+        <li><b>Pull to refresh</b> on Home: the Lyra bars appear above your greeting.</li>
+        <li>Audiomack and SoundCloud songs <b>start straight away</b>; their lyrics show as still text, so they never run early or late.</li>
+      </ul>
+      <img class="wide" src="screenshots/lyra-collection.jpg" alt="The nine Lyra Collection app icons" loading="lazy" />
+      <div class="shots">
+        <img src="screenshots/08-app-icon-page.jpg" alt="Settings › App icon with the Lyra Collection" loading="lazy" />
+        <img src="screenshots/10-pull-to-refresh.jpg" alt="Pull to refresh: Lyra bars above the greeting" loading="lazy" />
+      </div>
+      <img class="home-icon" src="screenshots/09-home-screen-icon.jpg" alt="The Lips icon on an iPhone home screen" loading="lazy" />
+    </section>
+
     <section>
       <h2>A look inside</h2>
       <div class="shots">
@@ -161,7 +186,7 @@
         <div class="card"><div class="emoji">🎤</div><h3>Word-by-word lyrics</h3><p>Lyrics that glow as they're sung, with Roman letters for Hindi and Punjabi.</p></div>
         <div class="card"><div class="emoji">⬇️</div><h3>Offline downloads</h3><p>Save songs inside the app and listen without internet.</p></div>
         <div class="card"><div class="emoji">✨</div><h3>Made for you</h3><p>Daily Mixes, On Repeat and your own Lyra Wrapped.</p></div>
-        <div class="card"><div class="emoji">🎨</div><h3>Make it yours</h3><p>Themes, accent colours, pure black, glass, lyric fonts and app icons.</p></div>
+        <div class="card"><div class="emoji">🎨</div><h3>Make it yours</h3><p>Themes, accent colours, pure black, glass, lyric fonts and 16 app icons.</p></div>
       </div>
     </section>
 

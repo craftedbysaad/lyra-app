@@ -20,6 +20,25 @@ Fast, refined, and completely free of ads.
 
 ---
 
+## What's new in 1.0.12
+
+- 🎨 **Lyra Collection:** 9 new app icons — Lips, Chrome, Note, Serpent, Flame, Ribbon, Ember, Glitter and Viper
+- 🗂️ **New App icon page:** Settings › App icon shows Classic, Lyra Collection and Saad Edition in one tidy grid
+- 🔄 **Pull to refresh:** pull Home down and the Lyra bars appear above your greeting
+- ▶️ Audiomack and SoundCloud songs start playing straight away
+- 🎤 JioSaavn songs keep their moving lyrics; Audiomack and SoundCloud songs show still lyrics, so they never run early or late
+
+<p align="center">
+  <img src="screenshots/lyra-collection.jpg" width="520" alt="The nine Lyra Collection app icons" />
+</p>
+<p align="center">
+  <img src="screenshots/08-app-icon-page.jpg" width="200" alt="Settings › App icon with the Lyra Collection" />
+  <img src="screenshots/10-pull-to-refresh.jpg" width="200" alt="Pull to refresh: Lyra bars above the greeting" />
+</p>
+<p align="center">
+  <img src="screenshots/09-home-screen-icon.jpg" width="420" alt="The Lips icon on an iPhone home screen" />
+</p>
+
 ## Screenshots
 
 <p align="center">
@@ -42,7 +61,7 @@ Fast, refined, and completely free of ads.
 - ⬇️ **Offline downloads** kept inside the app, plus auto-download of liked songs
 - 🏠 **Made for You:** Daily Mixes, On Repeat, and your own Lyra Wrapped
 - 🔎 **Smart search** that puts the song you mean first
-- 🎨 **Make it yours:** 7 themes, accent colours, pure black, glass transparency, lyric fonts, text size and app icons
+- 🎨 **Make it yours:** 7 themes, accent colours, pure black, glass transparency, lyric fonts, text size and 16 app icons (Classic, Lyra Collection, Saad Edition)
 - 😴 Sleep timer, equalizer (Android), queue in Spotify order, share songs and playlists by link or QR code
 - 🚫 **No ads, no account, no tracking.** Your profile stays on your phone.
 
